@@ -30,7 +30,7 @@
 - Pygame: Установить командой `pip install pygame`
 
 Клонируйте репозиторий:  
-`git clone https://github.com/Umang-Lodaya/Doom-PyGame.git`
+`git clone https://github.com/Augusthofmann/doom.git`
 
 <hr>
 Запуск игры
@@ -47,6 +47,7 @@
 - Мышь: Обзор
 - Кнопки мыши: Стрельба
 - Esc: Выход
+- Tab: Меню
 
 Вы можете изменить управление в коде по своему усмотрению.
 
