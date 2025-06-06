@@ -30,7 +30,7 @@
 - Pygame: Установить командой `pip install pygame`
 
 Клонируйте репозиторий:  
-`git clone https://github.com/Augusthofmann/doom.git`
+`git clone https://github.com/Augusthofmann/doom.git`(необязательно, можно скачать релиз и запустить main.py)
 
 <hr>
 Запуск игры
