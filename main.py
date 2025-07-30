@@ -1,5 +1,6 @@
 import pygame as pg
 import sys
+import os
 from settings import *
 from map import *
 from player import *
@@ -11,6 +12,7 @@ from weapon import *
 from sound import *
 from pathfinding import *
 
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 class Game:
     def __init__(self):
